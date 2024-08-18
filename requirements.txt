@@ -1,0 +1,4 @@
+imaplib
+psycopg2
+openai
+smtplib
